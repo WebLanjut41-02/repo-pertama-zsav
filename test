@@ -1,3 +1,4 @@
+SILAHKAN anda Upload file anda dari PHP Storm
 TUGAS:
 Buatlah kalkulator berat badan dengan OOP sederhana.
 Input: tinggi, berat bedan (teks), jenis kelamin (radio button)
@@ -17,3 +18,4 @@ BMI < 17	Under Weight/Kurus
 BMI 17 – 23	Normal Weight/Normal
 BMI 23 – 27	Over Weight/Kegemukan
 BMI > 27	Obesitas
+
