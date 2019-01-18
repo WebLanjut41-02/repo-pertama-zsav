@@ -1,0 +1,19 @@
+TUGAS:
+Buatlah kalkulator berat badan dengan OOP sederhana.
+Input: tinggi, berat bedan (teks), jenis kelamin (radio button)
+Rumus berat badan ideal:
+Berat Badan Ideal (BMI) = Berat Badan (Kg) : (Tinggi badan x Tinggi badan)
+
+Nilai BMI untuk wanita
+Nilai BMI	Kategori
+BMI < 18	Under Weight/Kurus
+BMI 18 – 25	Normal Weight/Normal
+BMI 25 – 27	Over Weight/Kegemukan
+BMI > 27	Obesitas
+
+Nilai BMI untuk laki-laki
+Nilai BMI	Kategori
+BMI < 17	Under Weight/Kurus
+BMI 17 – 23	Normal Weight/Normal
+BMI 23 – 27	Over Weight/Kegemukan
+BMI > 27	Obesitas
